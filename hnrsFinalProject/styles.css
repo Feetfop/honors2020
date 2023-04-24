@@ -1,0 +1,136 @@
+body{
+    background-color:#0e131f;
+    padding:0%;
+    color:#eef6ff;
+}
+.centercontent{
+    background-color:#38385E;
+    margin-left:15%;
+    width:50%;
+    margin-right:25%;
+    margin-top:0%;
+    margin-bottom:0%;
+    color:#eef6ff;
+    padding-left:8vw;
+    padding-right:8vw;
+    padding-top:4vw;
+    padding-bottom:4vw;
+}
+.stickyfooter{
+    height:4vw;
+    background-color:#8080A7;
+    margin:0%;
+    position:sticky;
+    padding-left:5vw;
+    width:100%;
+    bottom:0rem;
+}
+.navbutton{
+    height:3vw;
+    border-radius:1.5vw;
+    border-color:#38385e;
+    margin-left:4vw;
+    margin-top:.5vw;
+    background-color:#38385e;
+    color:#eef6ff;
+    width:10vw;
+    padding:0px;
+}
+
+.navtext{
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    font-size: 1.5vw;
+    color: #eef6ff;
+    margin:0px;
+}
+
+p{
+    font-family:'Atkinson Hyperlegible', sans-serif;
+    font-size:1.2vw;
+}
+
+.googledef{
+    background-color:#eef6ff;
+    width:100%;
+    height:12vw;
+    color:#0e131f;
+    padding:1vw;
+}
+
+.googledefword{
+    font-family:'Atkinson Hyperlegible', sans-serif;
+    size:3vw;
+}
+
+.pos{
+    color:#38385E;
+    margin-top:-1vw;
+    font-size:1.2vw;
+}
+
+.googledeftext{
+    margin-left:2vw;
+}
+
+.googletrends{
+    width:50vw;
+}
+
+a{
+    color:#d7e3ff;
+}
+h1{
+    font-family:'atkinson hyperlegible', sans-serif;
+    font-weight:400;
+}
+
+.message{
+    background-color:#147efb;
+    width:30vw;
+    padding-left:1.5vw;
+    padding-right:1.5vw;
+    padding-top:.5vh;
+    padding-bottom:.5vh;
+    border-radius:1.5vw;
+}
+
+.footertext{
+    color:#8080a7;
+    font-size:1vw;
+}
+
+.horizontalvideoscroll{
+    background-color:#8080a7;
+    display:flex;
+    flex-direction:row;
+    width:100%;
+    justify-content:space-between;
+}
+
+.leftvideobutton{
+    flex:none;
+    background-color:#eef6ff;
+    width:7vw;
+}
+.centervideo{
+    flex:none;
+    width:25vw;
+    height:15vw;
+    background-color:#d7e3ff;
+}
+
+.rightvideobutton{
+    flex:none;
+    background-color:#eef6ff;
+    width:7vw;
+}
+
+.videos{
+    justify-content:center;
+}
+
+.videodescriptor{
+    background-color:#8080a7;
+    padding:5vw;
+
+}
